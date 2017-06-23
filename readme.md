@@ -2,6 +2,12 @@
 
 This project is a template for javascript-projects using Webpack.
 
+It contains the following features:
+
+* ES2015
+* SCSS
+* Image-compression
+
 ## Release notes
 
 ### v1.0.0 (2017-06-23)

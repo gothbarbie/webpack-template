@@ -63,14 +63,37 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
+/***/ function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+__webpack_require__(1);
+
+var image = document.createElement('img');
+image.src = 'http://lorempixel.com/400/400';
+
+document.body.appendChild(image);
+
+/***/ },
+/* 1 */
 /***/ function(module, exports) {
 
+throw new Error("Module parse failed: /Users/HSM/Documents/dev/labs/webpack-template/src/styles/image_viewer.css Unexpected token (1:4)\nYou may need an appropriate loader to handle this file type.\n| img {\n|   border: 10px solid black;\n| }");
 
+/***/ },
+/* 2 */
+/***/ function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+__webpack_require__(0);
 
 /***/ }
 /******/ ]);
