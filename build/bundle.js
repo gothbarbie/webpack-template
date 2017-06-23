@@ -84,7 +84,7 @@ document.body.appendChild(image);
 /* 1 */
 /***/ function(module, exports) {
 
-throw new Error("Module parse failed: /Users/HSM/Documents/dev/labs/webpack-template/src/styles/image_viewer.css Unexpected token (1:4)\nYou may need an appropriate loader to handle this file type.\n| img {\n|   border: 10px solid black;\n| }");
+// removed by extract-text-webpack-plugin
 
 /***/ },
 /* 2 */
