@@ -2,11 +2,11 @@
   "name": "webpack-template",
   "version": "1.0.0",
   "description": "webpack template",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
-  "author": "",
+  "author": "Hanna Söderström",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^2.2.0-rc.0"
