@@ -5,7 +5,7 @@ This project is a template for javascript-projects using Webpack.
 It contains the following features:
 
 * ES2015
-* SCSS
+* CSS
 * Image-compression
 
 ## Release notes
