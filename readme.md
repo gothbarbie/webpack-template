@@ -4,9 +4,9 @@ This project is a template for javascript-projects using Webpack.
 
 It contains the following features:
 
-* ES2015
+* Babel transpiler (ES2015)
 * CSS
-* Image-compression
+* Automatic image-compression (jpe?g|gif|png|svg)
 
 ## Release notes
 
